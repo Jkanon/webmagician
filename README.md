@@ -1,6 +1,6 @@
 <h1 align="center">Webmagician</h1>
 
-[English](./README.md) | 简体中文 | [日本語](./README.ja-JP.md)
+English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja-JP.md)
 
 ## Introduction
 Webmagician is a configurable web crawler platform。Its philosophy is: Less Coding, More Power.<br/>
